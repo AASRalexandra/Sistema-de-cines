@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Presentation/">
+    <Project Path="Dealer.API/Dealer.API.csproj" />
+    <Project Path="Dealer.WebUI/Dealer.WebUI.csproj" />
+  </Folder>
+  <Project Path="Dealer.Aplication/Dealer.Aplication.csproj" />
+  <Project Path="Dealer.Domain/Dealer.Domain.csproj" />
+  <Project Path="Dealer.Infrastructure/Dealer.Infrastructure.csproj" />
+  <Project Path="Dealer.Shared/Dealer.Shared.csproj" />
+</Solution>
